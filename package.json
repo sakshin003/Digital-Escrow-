@@ -1,0 +1,17 @@
+{
+  "name": "digital-escrow",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.7",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
